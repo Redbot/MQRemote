@@ -17,7 +17,7 @@ tags:
 ## Description
 
 <!--cmd-desc-start-->
-MQRemote supports multiple logical communication channels. All commands use the /rc prefix. All channels follow the pattern of `/rc [+self] <channel> <message>` where `+self` is optional, or `/rc <channel> <character> <message>` to send a tell to just that character in a channel (most used will probably be server channel).
+MQRemote supports multiple logical communication channels. All commands use the /rc prefix.
 <!--cmd-desc-end-->
 
 ## Built-in Channels

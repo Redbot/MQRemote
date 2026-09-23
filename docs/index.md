@@ -25,7 +25,7 @@ Load the plugin like any other MacroQuest plugin:
 
 The plugin initializes automatically on load. Default channels (Globla, Server, Group, Raid, Zone) are created dynamically as they become available in-game. No additional setup is required for basic functionality.
 
-## Commands
+### Commands
 MQRemote supports multiple logical communication channels. All commands use the /rc prefix.
 
 <a href="cmd-rc/">
