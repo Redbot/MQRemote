@@ -1,0 +1,5 @@
+docs_repository: "https://github.com/Redbot/MQRemote"
+docs_edit_uri: "edit/readguides/"
+docs_path_transform:
+  from: "projects/mqremote/"
+  to: "docs/"
